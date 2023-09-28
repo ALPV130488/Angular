@@ -1,0 +1,97 @@
+	
+	0,1--------->binary 
+	
+unicode /ascii------->	
+		
+		
+					computer languages:-
+					
+		programming languages				scripting languages
+		
+pl:-used to develop softwares
+		c,c++,java
+		
+		
+		
+sl:-used to create websites
+		html,css,javascript,typescript.
+		
+		
+		
+		
+					website:-collection of webpages
+					
+	html:-Hyper text Markup language.
+	
+		Linking the text to another webpage/website=hypertext
+		
+		
+	webpages :-3 types of webpages are:-
+	
+	(1)Static webpage:-(1)Content can get stagnant
+				(2)	Changes and updates are very time consuming
+				ex:-gmail/facebook registration pages 
+				
+	(2)Dynamic webpage:-(1)Contents will gets changes for every second
+				(2)	Changes and updates are easy
+				ex:-instagram newsfeed
+	(3)Server webpage:-All the data from the static /Dynamic wp's will get stored.
+	
+	
+							html:-hyper text markup language-tim berners lee
+							
+							
+							
+		tag
+		
+		<predefined words>		:-		body,head,h1.......	
+		
+		
+		tags:-			2 types of tags
+		
+		(1)pair tag/container tag		:-<opening tag></closing tag> ex:-<head></head>
+		
+		(2)single tag					:-<tag> or </tag> or <tag/>
+		
+		
+		<body class="value">	hi pooja  </body> 			=====>element
+		
+	Text Format Tags:-
+	
+	Bold :-<b></b>
+	Italic :-<i></i>
+	Underline:-<u></u>
+	stikeTrough:-<strik>
+	Sub script:-<sub>
+	super script:-<sup>
+	strong :-<strong>
+	
+	
+	
+	<marquee>marquee:-it is used to scroll the text
+	
+	Numberings and Bullets:-
+	
+	List:-<li></li>
+	
+	Unordered list:-Bullets<ul></ul>
+	
+	Ordered List:-Numberings<ol></ol>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
