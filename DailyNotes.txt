@@ -1,0 +1,201 @@
+	
+	0,1--------->binary 
+	
+unicode /ascii------->	
+		
+		
+					computer languages:-
+					
+		programming languages				scripting languages
+		
+pl:-used to develop softwares
+		c,c++,java
+		
+		
+		
+sl:-used to create websites
+		html,css,javascript,typescript.
+		
+		
+		
+		
+					website:-collection of webpages
+					
+	html:-Hyper text Markup language.
+	
+		Linking the text to another webpage/website=hypertext
+		
+		
+	webpages :-3 types of webpages are:-
+	
+	(1)Static webpage:-(1)Content can get stagnant
+				(2)	Changes and updates are very time consuming
+				ex:-gmail/facebook registration pages 
+				
+	(2)Dynamic webpage:-(1)Contents will gets changes for every second
+				(2)	Changes and updates are easy
+				ex:-instagram newsfeed
+	(3)Server webpage:-All the data from the static /Dynamic wp's will get stored.
+	
+	
+							html:-hyper text markup language-tim berners lee
+							
+							
+							
+		tag
+		
+		<predefined words>		:-		body,head,h1.......	
+		
+		
+		tags:-			2 types of tags
+		
+		(1)pair tag/container tag		:-<opening tag></closing tag> ex:-<head></head>
+		
+		(2)single tag					:-<tag> or </tag> or <tag/>
+		
+		
+		<body class="value">	hi pooja  </body> 			=====>element
+		
+	Text Format Tags:-
+	
+	Bold :-<b></b>
+	Italic :-<i></i>
+	Underline:-<u></u>
+	stikeTrough:-<strik>
+	Sub script:-<sub>
+	super script:-<sup>
+	strong :-<strong>
+	
+	
+	
+	<marquee>marquee:-it is used to scroll the text
+	
+	Numberings and Bullets:-
+	
+	List:-<li></li>
+	
+	Unordered list:-Bullets<ul></ul>
+	
+	Ordered List:-Numberings<ol></ol>
+	
+	image:-<img src="">
+	
+	Links:-text/images
+	
+	<a href="url address"></a>							=>anchor tag
+	
+	table:-
+	
+	
+	
+	<table></table>
+	
+	rows <tr></tr>
+	 columns <td></td>
+	
+	
+	 Forms:-
+	 
+			<forms></forms>
+	
+	Frames:-
+	
+	
+	
+	HTML 5:-(1)video and audio tag
+	
+	<video></video> :- to place video on the web page
+	<audio></audio>	:-to place audio on the web page
+	<source>:- used to locate the path of audio/video file
+	
+	Attributes:-
+	
+	1.controls :-display the controls on the web page
+	
+	
+	
+	(2)Sematic elements:-these tags will have any information about the content
+	
+		ex:-<table>,<forms>
+	
+	Non-sematic elements:-these tags will not have any information about the content
+	
+	ex:-	<div>
+	
+	
+	
+	form html 5 we are having some new sematic elements:--
+	
+	
+	<header>
+	<footer>
+	<aside>
+	<article>
+	<section>
+	
+											CSS
+		cascade:-adding/attach
+	
+	3 ways 
+	
+	(1)External :-Here we will add external .css file to .html file through <link> tag
+	(2)Internal :-we will use <style> tag in the <head> tag of the html page
+	(3)Inline 	:-we will use the style attribute inside the html tags.
+	
+	
+	colors:-
+	
+	(1)color name:- red ,yellow...
+	
+	(2)Hexa decimal :-#R G B(00-FF)		(0-F)
+						EX:-#123456
+						
+	(3) rgb  function:- rgb(red,blue,green)		(0-255)
+	
+	(4)rgb with alpha:- rgb(red,green,blue,alpha)  (0.0-1.0)
+	
+	(5)hsl function :-hsl(hue,saturation,light)
+						0-360,0%-100% ,0%-100% 
+						
+	(6)hsl func with alpha - hsl(hue,saturation,light,alpha)
+	
+	
+	
+	selectors:-
+	
+	
+	(1)Tag name 			h1,body,p
+	
+	(2)Id based(#)			<h1 id="id">
+	
+	(3)Class based(.)			<h1 class="name">
+	
+	(4)Universal (*)
+	
+	
+	
+	*{
+	
+	}
+	
+	
+	
+	
+	
+	
+	JAVASCRIPT:-
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
