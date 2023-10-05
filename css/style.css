@@ -1,0 +1,42 @@
+*{
+margin:5px;
+box-sizing:border-box;
+border-style:solid;
+}
+
+body{
+
+background:#11ff11;
+text-align:center;
+
+
+flex-direction:column;
+}
+
+header{
+background:yellow;
+padding:2em 2em 2em;
+}
+#left{
+background:#1111ff;
+padding:2em 2em 25em;
+flex: 5 5 100px;
+}
+#right{
+background:#1111ff;
+padding:2em 2em 25em;
+flex: 5 5 100px;
+}
+.main{
+display:flex;
+}
+main{
+
+background:#1111ff;
+padding:3em 3em 25em;
+flex: 50 50 150px;
+}
+footer{
+background:yellow;
+padding:2em 2em 2em;
+}
