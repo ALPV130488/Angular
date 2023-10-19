@@ -133,6 +133,20 @@ sl:-used to create websites
 	<article>
 	<section>
 	
+	(3)To inject graphics
+	
+	2 ways:-
+	
+	svg(Scalable Vector Graphics)					canvas(script)
+	
+	
+	
+	
+	
+	
+	
+	
+	
 											CSS
 		cascade:-adding/attach
 	
@@ -178,24 +192,131 @@ sl:-used to create websites
 	
 	}
 	
+	Css Box Model:-
+	
+	<h1>HEADING</h1>
 	
 	
 	
 	
+								JAVASCRIPT:-
 	
-	JAVASCRIPT:-
-	
-	
-	
-	
-	
-	
-	
+	(1)To create Dynamic webpage
+	(2)To Change the html content
+	(3)To Change the attributes in the html content
+	(4)To change the css
+	(5)To Hide and display the content on our webpage
 	
 	
-	
+	<script></script> :- we can place the script tag in the head tag or in the body tag for scripting using js
 	
 	
 	
 	
+	TO get the ouputs in js:-
 	
+	innerHTML:-	Based on the id the content will be displayed on the webpage (getElementById("id"))
+	
+	document.write("text"):- id is not required
+	
+	window.alert("text") :-Alert Box will be appeared with the given text
+	
+	consloe.log("text"):-the output will be displayed in the console window
+	
+	
+	rules:-identifier= Name of var,fun,class,constants...
+	
+	(1)alphates,numbers,underscore,$
+	
+	
+	variables:-
+	
+	var varname;---->declaration of a variables
+	
+	var name="apple";
+	datatypes:-
+	
+	numbers 
+	
+	strings
+
+	boolean
+	
+	Object
+	
+	Undefined
+	
+	functions:-
+	
+			2 types:-
+			
+			
+			(1)User defined function		creation of a fun:-
+																function funname(parameters)
+																{//body}
+			(2)predefined funciton
+			
+			
+		conditional statements:-	
+	
+			if
+			
+			
+			NaN:-Not a number method
+			
+			
+			
+			Dom Model:-
+			
+			
+		1 step:- Install visual Studio code			https://code.visualstudio.com/download
+		
+		2 step:-Install node js 					https://nodejs.org/en/download
+			
+			
+			
+		To check the node verson in cmd:-
+
+			1.	cmd> node --version 
+			
+					(or)
+					
+			2.  cmd> node -v
+				
+				
+			
+		bootstrap:-
+
+				2 ways  to inject bootstrap into our html document
+				
+				1.download bootstrap required files 
+				
+				2.Through cdn (content delivery network)
+				
+			Containers in the bootstrap:- 1 webpages = 12 sections
+			
+			
+			class=nav ;navbar
+			
+			<nav>
+			
+			badges:-
+			
+			tag:-span
+			class=badge
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
