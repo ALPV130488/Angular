@@ -306,17 +306,70 @@ sl:-used to create websites
 			class=badge
 			
 			
+	(Google)ANGULAR:-Client side Typescript framework for developing dynamic web-Apps.
+	
+	Dynamic Apps:-Data/Info in the website changes w.r.t 3 parma's:-
+	(1)Time
+	(2)Location
+	(3)User
+	
+	framework :- libararies+ run time env
+			
+	
+		Angular js & Angular
+			
+		Angular js:- It's a javascript framework.
+
+		Angular:-It's a typescript framework.
+		
+	
+	Typescript:-
+				Typescript is the Superset of javascript
+				Developed by Microsoft
+				It is strictly typed language and supports oops features
+				
+				
+				.ts--------------->.js   ===========>Transpilation
+			
+			To get typescript installed into our pc:-
+			
+			
+			(1)install node js in to the pc
+			node js---------->npm(node package manger)
+			(2)To check the node version:-
+			cmd>node -v
+			(2.a)To check the npm version:-
+			cmd>npm -v
+			(3)To install typescirpt into our pc
+			cmd> npm install -g typescirpt
+			(4)To check the typescirpt version
+			cmd> tsc -v
 			
 			
 			
+			(5)To do the Transpiliation:-
+			cmd>tsc filename.ts				(====>Generates a typescirpt file with .js)
+			(6)To execute .js file
+			cmd>node filename.js
 			
+			Angular Cli:-command line interface.
 			
+				
+			node --------->typescript----------->angular cli(command line interface)
 			
-			
-			
-			
-			
-			
-			
-			
+				
+					To install angular cli:-
+					
+					cmd>npm install -g @angular/cli
+					
+					to check version of angular 
+					
+					cmd>ng version
+					
+					to create the angualr applcation:-
+					
+					cmd> ng new app-name
+					to run the angular application in our default browser:-
+					
+					cmd>ng serve
 			
