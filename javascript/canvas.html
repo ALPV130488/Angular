@@ -1,0 +1,24 @@
+<html>
+<body>
+<canvas id="myCanvas" width="175" height="100" style="border-style:solid;">
+
+
+<script>
+
+var c= document.getElementById("myCanvas");
+
+var obj = c.getContext("2d");
+
+var grd=obj.createLinearGradient(0,0,200,0);
+grd.addColorStop(0,"white");
+grd.addColorStop(1,"black");
+
+obj.fillStyle= grd;
+
+obj.fillRect(10,10,150,80);
+
+</script>
+
+
+</body>
+</html>
